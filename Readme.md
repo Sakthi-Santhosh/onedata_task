@@ -1,7 +1,6 @@
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-repo/organization-management.git
-   cd organization-management
+   https://github.com/Sakthi-Santhosh/onedata_task.git
+   cd onedata_task
 
 2.Install dependencies:
 
